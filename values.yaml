@@ -142,3 +142,8 @@ resources: {}
   # requests:
   #   memory: 128Mi
   #   cpu: 100m
+
+## Specify node labels for pod assignment
+## ref: https://kubernetes.io/docs/user-guide/node-selection/
+##
+nodeSelector: {}
