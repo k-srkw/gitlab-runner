@@ -148,7 +148,7 @@ resources: {}
   #   memory: 128Mi
   #   cpu: 100m
 
-## Specify node labels for pod assignment
-## ref: https://kubernetes.io/docs/user-guide/node-selection/
+## Specify node labels for runner pod assignment
+## ref: https://kubernetes.io/docs/concepts/configuration/assign-pod-node/
 ##
 nodeSelector: {}
