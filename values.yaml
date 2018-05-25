@@ -151,4 +151,4 @@ resources: {}
 ## Specify node labels for runner pod assignment
 ## ref: https://kubernetes.io/docs/concepts/configuration/assign-pod-node/
 ##
-nodeSelector: {}
+# nodeSelector: {}
